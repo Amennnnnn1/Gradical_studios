@@ -1,0 +1,56 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.topwrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 80px 0 0 0;
+}
+
+#location {
+}
+
+#location h3 {
+  margin: 0;
+}
+#Ellipise {
+  width: 50%;
+  margin-top: 50px;
+}
+
+.logo {
+  text-align: center;
+}
+
+.logo h1 {
+  font-size: 13rem;
+  margin-top: 0;
+}
+
+.time {
+  padding: 20px;
+  border-radius: 50px;
+  background: #181818;
+  display: grid;
+  margin: 25px 0;
+}
+
+.time ul {
+  margin: 0;
+  padding: 0;
+}
+
+.time ul li {
+  list-style-type: none;
+  float: left;
+  width: 20%;
+  text-align: center;
+}
